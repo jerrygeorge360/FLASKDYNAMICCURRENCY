@@ -1,0 +1,11 @@
+README.md
+setup.py
+flaskdynamiccurrency/__init__.py
+flaskdynamiccurrency/api_services.py
+flaskdynamiccurrency/dynamiccurrency.py
+flaskdynamiccurrency/reader.py
+flaskdynamiccurrency.egg-info/PKG-INFO
+flaskdynamiccurrency.egg-info/SOURCES.txt
+flaskdynamiccurrency.egg-info/dependency_links.txt
+flaskdynamiccurrency.egg-info/requires.txt
+flaskdynamiccurrency.egg-info/top_level.txt

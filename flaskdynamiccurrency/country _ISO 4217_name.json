@@ -1,0 +1,1610 @@
+[
+ {
+   "Entity": "AFGHANISTAN",
+   "Currency": "Afghani",
+   "Code": "AFN",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "ÅLAND ISLANDS",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "ALBANIA",
+   "Currency": "Lek",
+   "Code": "ALL",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "ALGERIA",
+   "Currency": "Algerian Dinar",
+   "Code": "DZD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "AMERICAN SAMOA",
+   "Currency": "US Dollar",
+   "Code": "USD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "ANDORRA",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "ANGOLA",
+   "Currency": "Kwanza",
+   "Code": "AOA",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "ANGUILLA",
+   "Currency": "East Caribbean Dollar",
+   "Code": "XCD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "ANTARCTICA",
+   "Currency": "No universal currency",
+   "Code": "",
+   "Minor Unit": ""
+ },
+ {
+   "Entity": "ANTIGUA AND BARBUDA",
+   "Currency": "East Caribbean Dollar",
+   "Code": "XCD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "ARGENTINA",
+   "Currency": "Argentine Peso",
+   "Code": "ARS",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "ARMENIA",
+   "Currency": "Armenian Dram",
+   "Code": "AMD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "ARUBA",
+   "Currency": "Aruban Florin",
+   "Code": "AWG",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "AUSTRALIA",
+   "Currency": "Australian Dollar",
+   "Code": "AUD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "AUSTRIA",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "AZERBAIJAN",
+   "Currency": "Azerbaijanian Manat",
+   "Code": "AZN",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "BAHAMAS",
+   "Currency": "Bahamian Dollar",
+   "Code": "BSD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "BAHRAIN",
+   "Currency": "Bahraini Dinar",
+   "Code": "BHD",
+   "Minor Unit": "3"
+ },
+ {
+   "Entity": "BANGLADESH",
+   "Currency": "Taka",
+   "Code": "BDT",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "BARBADOS",
+   "Currency": "Barbados Dollar",
+   "Code": "BBD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "BELARUS",
+   "Currency": "Belarussian Ruble",
+   "Code": "BYR",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "BELGIUM",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "BELIZE",
+   "Currency": "Belize Dollar",
+   "Code": "BZD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "BENIN",
+   "Currency": "CFA Franc BCEAO",
+   "Code": "XOF",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "BERMUDA",
+   "Currency": "Bermudian Dollar",
+   "Code": "BMD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "BHUTAN",
+   "Currency": "Ngultrum",
+   "Code": "BTN",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "BHUTAN",
+   "Currency": "Indian Rupee",
+   "Code": "INR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "BOLIVIA, PLURINATIONAL STATE OF",
+   "Currency": "Boliviano",
+   "Code": "BOB",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "BOLIVIA, PLURINATIONAL STATE OF",
+   "Currency": "Mvdol",
+   "Code": "BOV",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "BONAIRE, SINT EUSTATIUS AND SABA",
+   "Currency": "US Dollar",
+   "Code": "USD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "BOSNIA AND HERZEGOVINA",
+   "Currency": "Convertible Mark",
+   "Code": "BAM",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "BOTSWANA",
+   "Currency": "Pula",
+   "Code": "BWP",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "BOUVET ISLAND",
+   "Currency": "Norwegian Krone",
+   "Code": "NOK",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "BRAZIL",
+   "Currency": "Brazilian Real",
+   "Code": "BRL",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "BRITISH INDIAN OCEAN TERRITORY",
+   "Currency": "US Dollar",
+   "Code": "USD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "BRUNEI DARUSSALAM",
+   "Currency": "Brunei Dollar",
+   "Code": "BND",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "BULGARIA",
+   "Currency": "Bulgarian Lev",
+   "Code": "BGN",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "BURKINA FASO",
+   "Currency": "CFA Franc BCEAO",
+   "Code": "XOF",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "BURUNDI",
+   "Currency": "Burundi Franc",
+   "Code": "BIF",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "CAMBODIA",
+   "Currency": "Riel",
+   "Code": "KHR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "CAMEROON",
+   "Currency": "CFA Franc BEAC",
+   "Code": "XAF",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "CANADA",
+   "Currency": "Canadian Dollar",
+   "Code": "CAD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "CABO VERDE",
+   "Currency": "Cabo Verde Escudo",
+   "Code": "CVE",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "CAYMAN ISLANDS",
+   "Currency": "Cayman Islands Dollar",
+   "Code": "KYD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "CENTRAL AFRICAN REPUBLIC",
+   "Currency": "CFA Franc BEAC",
+   "Code": "XAF",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "CHAD",
+   "Currency": "CFA Franc BEAC",
+   "Code": "XAF",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "CHILE",
+   "Currency": "Unidad de Fomento",
+   "Code": "CLF",
+   "Minor Unit": "4"
+ },
+ {
+   "Entity": "CHILE",
+   "Currency": "Chilean Peso",
+   "Code": "CLP",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "CHINA",
+   "Currency": "Yuan Renminbi",
+   "Code": "CNY",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "CHRISTMAS ISLAND",
+   "Currency": "Australian Dollar",
+   "Code": "AUD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "COCOS (KEELING) ISLANDS",
+   "Currency": "Australian Dollar",
+   "Code": "AUD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "COLOMBIA",
+   "Currency": "Colombian Peso",
+   "Code": "COP",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "COLOMBIA",
+   "Currency": "Unidad de Valor Real",
+   "Code": "COU",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "COMOROS",
+   "Currency": "Comoro Franc",
+   "Code": "KMF",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "CONGO",
+   "Currency": "CFA Franc BEAC",
+   "Code": "XAF",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "CONGO, DEMOCRATIC REPUBLIC OF THE",
+   "Currency": "Congolese Franc",
+   "Code": "CDF",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "COOK ISLANDS",
+   "Currency": "New Zealand Dollar",
+   "Code": "NZD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "COSTA RICA",
+   "Currency": "Costa Rican Colon",
+   "Code": "CRC",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "CÔTE D'IVOIRE",
+   "Currency": "CFA Franc BCEAO",
+   "Code": "XOF",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "CROATIA",
+   "Currency": "Croatian Kuna",
+   "Code": "HRK",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "CUBA",
+   "Currency": "Peso Convertible",
+   "Code": "CUC",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "CUBA",
+   "Currency": "Cuban Peso",
+   "Code": "CUP",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "CURAÇAO",
+   "Currency": "Netherlands Antillean Guilder",
+   "Code": "ANG",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "CYPRUS",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "CZECH REPUBLIC",
+   "Currency": "Czech Koruna",
+   "Code": "CZK",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "DENMARK",
+   "Currency": "Danish Krone",
+   "Code": "DKK",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "DJIBOUTI",
+   "Currency": "Djibouti Franc",
+   "Code": "DJF",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "DOMINICA",
+   "Currency": "East Caribbean Dollar",
+   "Code": "XCD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "DOMINICAN REPUBLIC",
+   "Currency": "Dominican Peso",
+   "Code": "DOP",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "ECUADOR",
+   "Currency": "US Dollar",
+   "Code": "USD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "EGYPT",
+   "Currency": "Egyptian Pound",
+   "Code": "EGP",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "EL SALVADOR",
+   "Currency": "El Salvador Colon",
+   "Code": "SVC",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "EL SALVADOR",
+   "Currency": "US Dollar",
+   "Code": "USD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "EQUATORIAL GUINEA",
+   "Currency": "CFA Franc BEAC",
+   "Code": "XAF",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "ERITREA",
+   "Currency": "Nakfa",
+   "Code": "ERN",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "ESTONIA",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "ETHIOPIA",
+   "Currency": "Ethiopian Birr",
+   "Code": "ETB",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "EUROPEAN UNION",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "FALKLAND ISLANDS (MALVINAS)",
+   "Currency": "Falkland Islands Pound",
+   "Code": "FKP",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "FAROE ISLANDS",
+   "Currency": "Danish Krone",
+   "Code": "DKK",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "FIJI",
+   "Currency": "Fiji Dollar",
+   "Code": "FJD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "FINLAND",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "FRANCE",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "FRENCH GUIANA",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "FRENCH POLYNESIA",
+   "Currency": "CFP Franc",
+   "Code": "XPF",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "FRENCH SOUTHERN TERRITORIES",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "GABON",
+   "Currency": "CFA Franc BEAC",
+   "Code": "XAF",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "GAMBIA",
+   "Currency": "Dalasi",
+   "Code": "GMD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "GEORGIA",
+   "Currency": "Lari",
+   "Code": "GEL",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "GERMANY",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "GHANA",
+   "Currency": "Ghana Cedi",
+   "Code": "GHS",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "GIBRALTAR",
+   "Currency": "Gibraltar Pound",
+   "Code": "GIP",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "GREECE",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "GREENLAND",
+   "Currency": "Danish Krone",
+   "Code": "DKK",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "GRENADA",
+   "Currency": "East Caribbean Dollar",
+   "Code": "XCD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "GUADELOUPE",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "GUAM",
+   "Currency": "US Dollar",
+   "Code": "USD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "GUATEMALA",
+   "Currency": "Quetzal",
+   "Code": "GTQ",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "GUERNSEY",
+   "Currency": "Pound Sterling",
+   "Code": "GBP",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "GUINEA",
+   "Currency": "Guinea Franc",
+   "Code": "GNF",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "GUINEA-BISSAU",
+   "Currency": "CFA Franc BCEAO",
+   "Code": "XOF",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "GUYANA",
+   "Currency": "Guyana Dollar",
+   "Code": "GYD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "HAITI",
+   "Currency": "Gourde",
+   "Code": "HTG",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "HAITI",
+   "Currency": "US Dollar",
+   "Code": "USD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "HEARD ISLAND AND McDONALD ISLANDS",
+   "Currency": "Australian Dollar",
+   "Code": "AUD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "HOLY SEE (VATICAN CITY STATE)",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "HONDURAS",
+   "Currency": "Lempira",
+   "Code": "HNL",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "HONG KONG",
+   "Currency": "Hong Kong Dollar",
+   "Code": "HKD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "HUNGARY",
+   "Currency": "Forint",
+   "Code": "HUF",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "ICELAND",
+   "Currency": "Iceland Krona",
+   "Code": "ISK",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "INDIA",
+   "Currency": "Indian Rupee",
+   "Code": "INR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "INDONESIA",
+   "Currency": "Rupiah",
+   "Code": "IDR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "INTERNATIONAL MONETARY FUND (IMF)",
+   "Currency": "SDR (Special Drawing Right)",
+   "Code": "XDR",
+   "Minor Unit": "N.A."
+ },
+ {
+   "Entity": "IRAN, ISLAMIC REPUBLIC OF",
+   "Currency": "Iranian Rial",
+   "Code": "IRR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "IRAQ",
+   "Currency": "Iraqi Dinar",
+   "Code": "IQD",
+   "Minor Unit": "3"
+ },
+ {
+   "Entity": "IRELAND",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "ISLE OF MAN",
+   "Currency": "Pound Sterling",
+   "Code": "GBP",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "ISRAEL",
+   "Currency": "New Israeli Sheqel",
+   "Code": "ILS",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "ITALY",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "JAMAICA",
+   "Currency": "Jamaican Dollar",
+   "Code": "JMD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "JAPAN",
+   "Currency": "Yen",
+   "Code": "JPY",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "JERSEY",
+   "Currency": "Pound Sterling",
+   "Code": "GBP",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "JORDAN",
+   "Currency": "Jordanian Dinar",
+   "Code": "JOD",
+   "Minor Unit": "3"
+ },
+ {
+   "Entity": "KAZAKHSTAN",
+   "Currency": "Tenge",
+   "Code": "KZT",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "KENYA",
+   "Currency": "Kenyan Shilling",
+   "Code": "KES",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "KIRIBATI",
+   "Currency": "Australian Dollar",
+   "Code": "AUD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "KOREA, DEMOCRATIC PEOPLE’S REPUBLIC OF",
+   "Currency": "North Korean Won",
+   "Code": "KPW",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "KOREA, REPUBLIC OF",
+   "Currency": "Won",
+   "Code": "KRW",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "KUWAIT",
+   "Currency": "Kuwaiti Dinar",
+   "Code": "KWD",
+   "Minor Unit": "3"
+ },
+ {
+   "Entity": "KYRGYZSTAN",
+   "Currency": "Som",
+   "Code": "KGS",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "LAO PEOPLE’S DEMOCRATIC REPUBLIC",
+   "Currency": "Kip",
+   "Code": "LAK",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "LATVIA",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "LEBANON",
+   "Currency": "Lebanese Pound",
+   "Code": "LBP",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "LESOTHO",
+   "Currency": "Loti",
+   "Code": "LSL",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "LESOTHO",
+   "Currency": "Rand",
+   "Code": "ZAR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "LIBERIA",
+   "Currency": "Liberian Dollar",
+   "Code": "LRD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "LIBYA",
+   "Currency": "Libyan Dinar",
+   "Code": "LYD",
+   "Minor Unit": "3"
+ },
+ {
+   "Entity": "LIECHTENSTEIN",
+   "Currency": "Swiss Franc",
+   "Code": "CHF",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "LITHUANIA",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "LUXEMBOURG",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "MACAO",
+   "Currency": "Pataca",
+   "Code": "MOP",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+   "Currency": "Denar",
+   "Code": "MKD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "MADAGASCAR",
+   "Currency": "Malagasy Ariary",
+   "Code": "MGA",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "MALAWI",
+   "Currency": "Kwacha",
+   "Code": "MWK",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "MALAYSIA",
+   "Currency": "Malaysian Ringgit",
+   "Code": "MYR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "MALDIVES",
+   "Currency": "Rufiyaa",
+   "Code": "MVR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "MALI",
+   "Currency": "CFA Franc BCEAO",
+   "Code": "XOF",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "MALTA",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "MARSHALL ISLANDS",
+   "Currency": "US Dollar",
+   "Code": "USD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "MARTINIQUE",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "MAURITANIA",
+   "Currency": "Ouguiya",
+   "Code": "MRO",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "MAURITIUS",
+   "Currency": "Mauritius Rupee",
+   "Code": "MUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "MAYOTTE",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "MEMBER COUNTRIES OF THE AFRICAN DEVELOPMENT BANK GROUP",
+   "Currency": "ADB Unit of Account",
+   "Code": "XUA",
+   "Minor Unit": "N.A."
+ },
+ {
+   "Entity": "MEXICO",
+   "Currency": "Mexican Peso",
+   "Code": "MXN",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "MEXICO",
+   "Currency": "Mexican Unidad de Inversion (UDI)",
+   "Code": "MXV",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "MICRONESIA, FEDERATED STATES OF",
+   "Currency": "US Dollar",
+   "Code": "USD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "MOLDOVA, REPUBLIC OF",
+   "Currency": "Moldovan Leu",
+   "Code": "MDL",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "MONACO",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "MONGOLIA",
+   "Currency": "Tugrik",
+   "Code": "MNT",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "MONTENEGRO",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "MONTSERRAT",
+   "Currency": "East Caribbean Dollar",
+   "Code": "XCD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "MOROCCO",
+   "Currency": "Moroccan Dirham",
+   "Code": "MAD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "MOZAMBIQUE",
+   "Currency": "Mozambique Metical",
+   "Code": "MZN",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "MYANMAR",
+   "Currency": "Kyat",
+   "Code": "MMK",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "NAMIBIA",
+   "Currency": "Namibia Dollar",
+   "Code": "NAD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "NAMIBIA",
+   "Currency": "Rand",
+   "Code": "ZAR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "NAURU",
+   "Currency": "Australian Dollar",
+   "Code": "AUD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "NEPAL",
+   "Currency": "Nepalese Rupee",
+   "Code": "NPR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "NETHERLANDS",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "NEW CALEDONIA",
+   "Currency": "CFP Franc",
+   "Code": "XPF",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "NEW ZEALAND",
+   "Currency": "New Zealand Dollar",
+   "Code": "NZD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "NICARAGUA",
+   "Currency": "Cordoba Oro",
+   "Code": "NIO",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "NIGER",
+   "Currency": "CFA Franc BCEAO",
+   "Code": "XOF",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "NIGERIA",
+   "Currency": "Naira",
+   "Code": "NGN",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "NIUE",
+   "Currency": "New Zealand Dollar",
+   "Code": "NZD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "NORFOLK ISLAND",
+   "Currency": "Australian Dollar",
+   "Code": "AUD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "NORTHERN MARIANA ISLANDS",
+   "Currency": "US Dollar",
+   "Code": "USD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "NORWAY",
+   "Currency": "Norwegian Krone",
+   "Code": "NOK",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "OMAN",
+   "Currency": "Rial Omani",
+   "Code": "OMR",
+   "Minor Unit": "3"
+ },
+ {
+   "Entity": "PAKISTAN",
+   "Currency": "Pakistan Rupee",
+   "Code": "PKR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "PALAU",
+   "Currency": "US Dollar",
+   "Code": "USD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "PALESTINE, STATE OF",
+   "Currency": "No universal currency",
+   "Code": "",
+   "Minor Unit": ""
+ },
+ {
+   "Entity": "PANAMA",
+   "Currency": "Balboa",
+   "Code": "PAB",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "PANAMA",
+   "Currency": "US Dollar",
+   "Code": "USD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "PAPUA NEW GUINEA",
+   "Currency": "Kina",
+   "Code": "PGK",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "PARAGUAY",
+   "Currency": "Guarani",
+   "Code": "PYG",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "PERU",
+   "Currency": "Nuevo Sol",
+   "Code": "PEN",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "PHILIPPINES",
+   "Currency": "Philippine Peso",
+   "Code": "PHP",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "PITCAIRN",
+   "Currency": "New Zealand Dollar",
+   "Code": "NZD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "POLAND",
+   "Currency": "Zloty",
+   "Code": "PLN",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "PORTUGAL",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "PUERTO RICO",
+   "Currency": "US Dollar",
+   "Code": "USD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "QATAR",
+   "Currency": "Qatari Rial",
+   "Code": "QAR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "RÉUNION",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "ROMANIA",
+   "Currency": "New Romanian Leu",
+   "Code": "RON",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "RUSSIAN FEDERATION",
+   "Currency": "Russian Ruble",
+   "Code": "RUB",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "RWANDA",
+   "Currency": "Rwanda Franc",
+   "Code": "RWF",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "SAINT BARTHÉLEMY",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
+   "Currency": "Saint Helena Pound",
+   "Code": "SHP",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SAINT KITTS AND NEVIS",
+   "Currency": "East Caribbean Dollar",
+   "Code": "XCD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SAINT LUCIA",
+   "Currency": "East Caribbean Dollar",
+   "Code": "XCD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SAINT MARTIN (FRENCH PART)",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SAINT PIERRE AND MIQUELON",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SAINT VINCENT AND THE GRENADINES",
+   "Currency": "East Caribbean Dollar",
+   "Code": "XCD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SAMOA",
+   "Currency": "Tala",
+   "Code": "WST",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SAN MARINO",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SAO TOME AND PRINCIPE",
+   "Currency": "Dobra",
+   "Code": "STD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SAUDI ARABIA",
+   "Currency": "Saudi Riyal",
+   "Code": "SAR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SENEGAL",
+   "Currency": "CFA Franc BCEAO",
+   "Code": "XOF",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "SERBIA",
+   "Currency": "Serbian Dinar",
+   "Code": "RSD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SEYCHELLES",
+   "Currency": "Seychelles Rupee",
+   "Code": "SCR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SIERRA LEONE",
+   "Currency": "Leone",
+   "Code": "SLL",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SINGAPORE",
+   "Currency": "Singapore Dollar",
+   "Code": "SGD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SINT MAARTEN (DUTCH PART)",
+   "Currency": "Netherlands Antillean Guilder",
+   "Code": "ANG",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SISTEMA UNITARIO DE COMPENSACION REGIONAL DE PAGOS \"SUCRE\"",
+   "Currency": "Sucre",
+   "Code": "XSU",
+   "Minor Unit": "N.A."
+ },
+ {
+   "Entity": "SLOVAKIA",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SLOVENIA",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SOLOMON ISLANDS",
+   "Currency": "Solomon Islands Dollar",
+   "Code": "SBD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SOMALIA",
+   "Currency": "Somali Shilling",
+   "Code": "SOS",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SOUTH AFRICA",
+   "Currency": "Rand",
+   "Code": "ZAR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+   "Currency": "No universal currency",
+   "Code": "",
+   "Minor Unit": ""
+ },
+ {
+   "Entity": "SOUTH SUDAN",
+   "Currency": "South Sudanese Pound",
+   "Code": "SSP",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SPAIN",
+   "Currency": "Euro",
+   "Code": "EUR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SRI LANKA",
+   "Currency": "Sri Lanka Rupee",
+   "Code": "LKR",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SUDAN",
+   "Currency": "Sudanese Pound",
+   "Code": "SDG",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SURINAME",
+   "Currency": "Surinam Dollar",
+   "Code": "SRD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SVALBARD AND JAN MAYEN",
+   "Currency": "Norwegian Krone",
+   "Code": "NOK",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SWAZILAND",
+   "Currency": "Lilangeni",
+   "Code": "SZL",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SWEDEN",
+   "Currency": "Swedish Krona",
+   "Code": "SEK",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SWITZERLAND",
+   "Currency": "WIR Euro",
+   "Code": "CHE",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SWITZERLAND",
+   "Currency": "Swiss Franc",
+   "Code": "CHF",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SWITZERLAND",
+   "Currency": "WIR Franc",
+   "Code": "CHW",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "SYRIAN ARAB REPUBLIC",
+   "Currency": "Syrian Pound",
+   "Code": "SYP",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "TAIWAN, PROVINCE OF CHINA",
+   "Currency": "New Taiwan Dollar",
+   "Code": "TWD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "TAJIKISTAN",
+   "Currency": "Somoni",
+   "Code": "TJS",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "TANZANIA, UNITED REPUBLIC OF",
+   "Currency": "Tanzanian Shilling",
+   "Code": "TZS",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "THAILAND",
+   "Currency": "Baht",
+   "Code": "THB",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "TIMOR-LESTE",
+   "Currency": "US Dollar",
+   "Code": "USD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "TOGO",
+   "Currency": "CFA Franc BCEAO",
+   "Code": "XOF",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "TOKELAU",
+   "Currency": "New Zealand Dollar",
+   "Code": "NZD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "TONGA",
+   "Currency": "Pa’anga",
+   "Code": "TOP",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "TRINIDAD AND TOBAGO",
+   "Currency": "Trinidad and Tobago Dollar",
+   "Code": "TTD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "TUNISIA",
+   "Currency": "Tunisian Dinar",
+   "Code": "TND",
+   "Minor Unit": "3"
+ },
+ {
+   "Entity": "TURKEY",
+   "Currency": "Turkish Lira",
+   "Code": "TRY",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "TURKMENISTAN",
+   "Currency": "Turkmenistan New Manat",
+   "Code": "TMT",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "TURKS AND CAICOS ISLANDS",
+   "Currency": "US Dollar",
+   "Code": "USD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "TUVALU",
+   "Currency": "Australian Dollar",
+   "Code": "AUD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "UGANDA",
+   "Currency": "Uganda Shilling",
+   "Code": "UGX",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "UKRAINE",
+   "Currency": "Hryvnia",
+   "Code": "UAH",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "UNITED ARAB EMIRATES",
+   "Currency": "UAE Dirham",
+   "Code": "AED",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "UNITED KINGDOM",
+   "Currency": "Pound Sterling",
+   "Code": "GBP",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "UNITED STATES",
+   "Currency": "US Dollar",
+   "Code": "USD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "UNITED STATES",
+   "Currency": "US Dollar (Next day)",
+   "Code": "USN",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "UNITED STATES MINOR OUTLYING ISLANDS",
+   "Currency": "US Dollar",
+   "Code": "USD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "URUGUAY",
+   "Currency": "Uruguay Peso en Unidades Indexadas (URUIURUI)",
+   "Code": "UYI",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "URUGUAY",
+   "Currency": "Peso Uruguayo",
+   "Code": "UYU",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "UZBEKISTAN",
+   "Currency": "Uzbekistan Sum",
+   "Code": "UZS",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "VANUATU",
+   "Currency": "Vatu",
+   "Code": "VUV",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+   "Currency": "Bolivar",
+   "Code": "VEF",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "VIET NAM",
+   "Currency": "Dong",
+   "Code": "VND",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "VIRGIN ISLANDS (BRITISH)",
+   "Currency": "US Dollar",
+   "Code": "USD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "VIRGIN ISLANDS (U.S.)",
+   "Currency": "US Dollar",
+   "Code": "USD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "WALLIS AND FUTUNA",
+   "Currency": "CFP Franc",
+   "Code": "XPF",
+   "Minor Unit": "0"
+ },
+ {
+   "Entity": "WESTERN SAHARA",
+   "Currency": "Moroccan Dirham",
+   "Code": "MAD",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "YEMEN",
+   "Currency": "Yemeni Rial",
+   "Code": "YER",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "ZAMBIA",
+   "Currency": "Zambian Kwacha",
+   "Code": "ZMW",
+   "Minor Unit": "2"
+ },
+ {
+   "Entity": "ZIMBABWE",
+   "Currency": "Zimbabwe Dollar",
+   "Code": "ZWL",
+   "Minor Unit": "2"
+ }
+]

@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: flaskdynamiccurrency
+Version: 0.1.0
+Summary: converts currencies based on the user location
+Download-URL: 
+Author: Jbotrex
+Author-email: jbotrex@gmail.com
+Maintainer: Jbotrex
+Maintainer-email: jbotrex@gmail.com
+License: MIT
+Platform: 
